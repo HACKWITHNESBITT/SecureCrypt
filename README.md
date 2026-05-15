@@ -3,12 +3,6 @@
 SecureCrypt is a professional, modern desktop application for secure file encryption and decryption. Built with C++, Qt6, and OpenSSL, it provides robust AES-256 protection with a clean, dark-mode interface.
 
 
-
-### User Interface
-Below is a preview of the SecureCrypt application interface, demonstrating the primary encryption and decryption workspace:
-
-![SecureCrypt Screenshot](images/SecureCrypt.png)
-
 ## Features
 
 *   **AES-256-CBC Encryption**: Industry-standard encryption for maximum security.
